@@ -1,0 +1,6 @@
+@mentoria_embarque_digital_HostAddress = http://localhost:5280
+
+GET {{mentoria_embarque_digital_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
